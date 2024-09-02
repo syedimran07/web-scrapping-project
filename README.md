@@ -20,7 +20,7 @@ Replace <your_mongodb_connection_string> with your actual MongoDB connection URI
 ## Install Dependencies
 Run the following command to install the necessary dependencies:
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 
 ## API Base URL
